@@ -1,0 +1,130 @@
+{
+  "kind": "aust-vision-mission-toolkit",
+  "version": 1,
+  "savedAt": "2026-07-31T16:24:40.533Z",
+  "scores": {
+    "distinct": 4,
+    "stake": 4,
+    "complete": 4,
+    "visionarch": 4,
+    "cascade": 3,
+    "credible": 4,
+    "clarity": 4,
+    "filter": 3,
+    "process": 2,
+    "sustain": 3,
+    "map": 4
+  },
+  "swap": {},
+  "fails": {},
+  "attrs": {},
+  "mission": {
+    "m1": "To develop human capital and create knowledge for the ever-changing needs of Bangladesh and beyond",
+    "m2": "Students, employers, and the technology, design and business professions of Bangladesh and beyond",
+    "m3": "Education, research and innovation, imbued with the spirit of ethical values",
+    "m4": "Bangladesh and beyond",
+    "m5": "A Washington Accord–recognised engineering core within a permanently chartered university built on the Dhaka Ahsania Mission's heritage"
+  },
+  "vision": {
+    "v1": "Discovery, innovation and leadership — the current vision's triad, refreshed, with the Ahsanullah ethical tradition",
+    "v2": "Society transformed through technology education and research, toward a sustainable future",
+    "v3": "2035 (internal planning horizon — not published in the statement)",
+    "v4": "Every program internationally accredited; employers in Bangladesh and beyond recruit AUST graduates without re-examination; AUST research cited in sustainable-development decisions"
+  },
+  "strands": [
+    {
+      "id": "s1",
+      "text": "Human capital meeting the ever-changing needs of Bangladesh and beyond"
+    },
+    {
+      "id": "s2",
+      "text": "Competent, ethical graduates recognised internationally in their professions"
+    },
+    {
+      "id": "s3",
+      "text": "Entrepreneurs, leaders and research promoting a sustainable future"
+    }
+  ],
+  "mLines": [
+    {
+      "id": "m1",
+      "text": "Develop human capital and create knowledge to meet the ever-changing needs of Bangladesh and beyond.",
+      "map": {
+        "s1": true
+      }
+    },
+    {
+      "id": "m2",
+      "text": "Produce competent graduates imbued with the spirit of ethical values, knowledge and skills in the technology, design and business professions.",
+      "map": {
+        "s2": true
+      }
+    },
+    {
+      "id": "m3",
+      "text": "Nurture entrepreneurs and leaders who advance research and innovation to overcome present challenges and promote a sustainable future.",
+      "map": {
+        "s3": true
+      }
+    }
+  ],
+  "program": {
+    "name": "Mechanical Engineering",
+    "vision": "To become a nationally and internationally recognized center of excellence for Mechanical Engineering Education with outstanding teaching and research activities.",
+    "missions": [
+      {
+        "id": "pm1",
+        "text": "To offer quality education in Mechanical Engineering to develop qualified and responsible graduates to meet the current challenges and requirements in engineering and multidisciplinary professional fields at the local and international levels.",
+        "map": {
+          "m1": true,
+          "m2": true
+        }
+      },
+      {
+        "id": "pm2",
+        "text": "Pursue an enabling curriculum besides the professional courses, with strong emphasis on knowledge and skills in mathematics, physics, chemistry, humanities and social sciences — enriching graduate attributes with complex problem-solving skills, diversified professional competencies, life-long learning and robust ethical attitudes.",
+        "map": {
+          "m2": true
+        }
+      },
+      {
+        "id": "pm3",
+        "text": "To practice quality teaching and scientific research activities that enrich the qualities of graduates so they contribute proactively to sustainable development in its social, environmental and economic dimensions.",
+        "map": {
+          "m1": true,
+          "m3": true
+        }
+      }
+    ],
+    "peos": [
+      {
+        "id": "p1",
+        "label": "PEO1 — Professionalism",
+        "text": "Graduates will demonstrate sound professionalism in mechanical engineering or related fields.",
+        "map": {
+          "m2": true
+        }
+      },
+      {
+        "id": "p2",
+        "label": "PEO2 — Continuous personal development",
+        "text": "Graduates will engage in life-long learning in multi-disciplinary fields for industrial and academic careers.",
+        "map": {
+          "m1": true,
+          "m2": true
+        }
+      },
+      {
+        "id": "p3",
+        "label": "PEO3 — Sustainable development",
+        "text": "Graduates will promote sustainable development at local and international levels.",
+        "map": {
+          "m3": true
+        }
+      }
+    ]
+  },
+  "missionText": "",
+  "visionText": "Transforming society through discovery, innovation, and leadership — enabling technology education and research for sustainable development.",
+  "weeks": null
+}
