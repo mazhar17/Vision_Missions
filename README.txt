@@ -1,4 +1,4 @@
-TOOLKIT FOR VISION & MISSIONS  —  v4.3
+TOOLKIT FOR VISION & MISSIONS  —  v4.6
 A working tool for revising AUST's vision and mission statements
 ================================================================
 
@@ -29,13 +29,17 @@ device.
 FILES
 ----------------------------------------------------------------
 
-Toolkit for Vision & Missions v4.3.html
+Toolkit for Vision & Missions v4.6.html
     The complete application in one self-contained file. All
     styles, fonts and scripts are inlined. Works offline.
     Double-click to open, or host it on any static web server.
 
 Toolkit_Vision_MIssions_User_Guide.pdf
     Three-page user guide, including "How to start".
+
+AUST_Suggestions_Template.csv
+    Header template for collecting committee suggestions in a
+    shared Google Sheet (also downloadable from inside the app).
 
 README.txt
     This file.
@@ -124,7 +128,25 @@ THE TABS
     and "Copy full record for documentation" produces the
     committee paper.
 
-05 KNOWLEDGE BASE
+05 SHORTLIST
+    For when the committee collects many proposals — up to 50,
+    designed for 10-30. Collect them in a shared Google Sheet
+    using the built-in template (columns: Contributor, Vision,
+    Mission 1, Mission 2, Mission 3, Notes), download as CSV and
+    import — or paste the cells directly. Six scorecard criteria
+    are checked automatically on every entry the moment it
+    arrives, each with a generated strengths-and-weaknesses
+    assessment; the committee scores the remaining five for the
+    survivors and can add its own comment per entry. Entries
+    rank live, best to worst out of 44; anything failing an
+    essential criterion sinks to a "Needs revision" band
+    regardless of total. A blind-review toggle hides contributor
+    names while scoring, and "Copy ranking for documentation"
+    exports the ranked list. The top entry is advice, not a
+    verdict — it still goes through Evaluate and Cascade before
+    adoption.
+
+06 KNOWLEDGE BASE
     Every term explained in plain language with the scholarship
     behind it — vision versus mission, institutional
     isomorphism, the accreditation cascade, graduate attributes,
@@ -136,7 +158,7 @@ THE TABS
     here before the first meeting puts every member on the same
     footing.
 
-06 REFERENCES
+07 REFERENCES
     The full reference list, grouped by the job each source
     does, with a note on citation integrity.
 
