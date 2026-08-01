@@ -1,4 +1,4 @@
-TOOLKIT FOR VISION & MISSIONS  —  v4.2
+TOOLKIT FOR VISION & MISSIONS  —  v4.3
 A working tool for revising AUST's vision and mission statements
 ================================================================
 
@@ -29,7 +29,7 @@ device.
 FILES
 ----------------------------------------------------------------
 
-Toolkit for Vision & Missions v4.2.html
+Toolkit for Vision & Missions v4.3.html
     The complete application in one self-contained file. All
     styles, fonts and scripts are inlined. Works offline.
     Double-click to open, or host it on any static web server.
@@ -48,11 +48,12 @@ HOW TO START
 1.  Open the HTML file in a browser, or visit the address above.
     Chrome or Edge is recommended (see BROWSER SUPPORT below).
 
-2.  Press "Load sample" in the top bar. Every field fills with a
-    complete worked example — a proposed vision, three mission
-    lines, the Mechanical Engineering cascade and a full set of
-    scores. Click through the tabs to see what a finished
-    exercise looks like, then clear it and start your own.
+2.  Press "Load a sample file" in the top bar. Every field fills
+    with a complete worked example — a proposed vision, three
+    mission lines and the Mechanical Engineering cascade. The
+    scorecard is deliberately left unscored: scoring the sample
+    yourself on the Evaluate tab is the best way to learn the
+    rubric.
     On the Overview tab, "The seven-stage process — view"
     expands the recommended way to run the whole exercise
     (mandate map, evidence, diagnosis, consultation, drafting,
