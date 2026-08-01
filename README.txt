@@ -1,8 +1,8 @@
-TOOLKIT FOR VISION & MISSIONS  —  v3.8
+TOOLKIT FOR VISION & MISSIONS  —  v4.1
 A working tool for revising AUST's vision and mission statements
 ================================================================
 
-URL: https://mazhar17.github.io/Vision_Missions
+https://mazhar17.github.io/Vision_Missions
 
 (c) 2026 Prof. Mazharul Islam  —  https://mazhar17.github.io/MI
 Distributed under the Creative Commons Attribution (CC BY) 4.0
@@ -29,7 +29,7 @@ device.
 FILES
 ----------------------------------------------------------------
 
-Toolkit for Vision & Missions v3.8.html
+Toolkit for Vision & Missions v4.1.html
     The complete application in one self-contained file. All
     styles, fonts and scripts are inlined. Works offline.
     Double-click to open, or host it on any static web server.
@@ -57,7 +57,10 @@ HOW TO START
 3.  Work the tabs in order. They are numbered because the
     sequence matters: Vision, then Missions, then Cascade, then
     Evaluate. The grey text inside each empty box is a
-    suggestion; it disappears as soon as you type.
+    suggestion; it disappears as soon as you type. Live warnings
+    appear as you write: stock phrases ("centre of excellence",
+    "quality education"), missing research, ranking language and
+    broken word ceilings are flagged at the point of typing.
 
 4.  Press Save, or Ctrl+S, and choose where to keep your file.
     After that the toolkit saves silently every 30 seconds and
@@ -107,13 +110,24 @@ THE TABS
     override. Four criteria are marked ESSENTIAL: if any scores
     below 3, the draft is revised rather than debated.
 
+    The thresholds are stated below the verdict: 35-44
+    adoption-ready, 26-34 workable, below 26 revise -- and the
+    essential criteria override the total. A sticky summary
+    keeps the running total and verdict in view while scrolling,
+    and "Copy full record for documentation" produces the
+    committee paper.
+
 05 KNOWLEDGE BASE
     Every term explained in plain language with the scholarship
     behind it — vision versus mission, institutional
     isomorphism, the accreditation cascade, graduate attributes,
-    decoupling, why statements drift into boilerplate. Fifteen
-    minutes here before the first meeting puts every member on
-    the same footing.
+    decoupling, why statements drift into boilerplate. Includes
+    a group on the Bangladesh regulatory fixed points: the
+    Private University Act 2010, the UGC Strategic Plan
+    2018-2030, the BNQF, BAC/IQAC, BAETE under the Washington
+    Accord, and a note on publishing in Bangla. Fifteen minutes
+    here before the first meeting puts every member on the same
+    footing.
 
 06 REFERENCES
     The full reference list, grouped by the job each source
